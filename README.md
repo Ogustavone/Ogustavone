@@ -12,7 +12,7 @@ Atualmente, iniciante na área de programação, estudando por vídeos e conteú
 * 🤝  Pretendo trabalhar com programas desktop
 * ⚡  Gosto de instrumentos e música
 
-### Skills
+### Objetivo
 
 
 <p align="left">
