@@ -8,7 +8,7 @@ Atualmente, iniciante na área de programação, estudando por vídeos e conteú
 
 * 🌍  Moro no Rio Grande do Sul
 * ✉️  Meu contato é [ogustavone@gmail.com](mailto:ogustavone@gmail.com)
-* 🧠  Estou aprendendo Python, Javascript e C++
+* 🧠  Estou atualmente aprendendo Python
 * 🤝  Pretendo trabalhar com programas desktop
 * ⚡  Gosto de instrumentos e música
 
