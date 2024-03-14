@@ -1,4 +1,4 @@
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" align="right" width=110 height=110>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" align="right" width=100 height=100>
 <h1>
 Olá, <br>
 meu nome é Gustavo
