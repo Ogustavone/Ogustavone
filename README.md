@@ -36,8 +36,7 @@
 <p align="left">
   <a href=""><img src="https://img.icons8.com/EFEFEF/fluent/2x/python.png" width="50" height="50"></a>
   <a href=""><img src="https://img.icons8.com/75F94C/m_outlined/2x/django.png" width="50" height="50"></a>
-  <a href=""><img src="https://img.icons8.com/EBC351/win8/2x/mysql.png" width="45" height="45"></a>
-  <a href=""><img src="https://img.icons8.com/FFFFFF/ios7/2x/flask.png" width="50" height="50"></a> <br>
+  <a href=""><img src="https://img.icons8.com/EBC351/win8/2x/mysql.png" width="45" height="45"></a><br>
   <a href=""><img src="https://img.icons8.com/EFEFEF/color/2x/javascript.png" width="50" height="50"></a>
   <a href=""><img src="https://img.icons8.com/EFEFEF/color/2x/html-5.png" width="50" height="50"></a>
   <a href=""><img src="https://img.icons8.com/EFEFEF/color/2x/css3.png" width="50" height="50"></a> <br>
