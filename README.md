@@ -23,21 +23,19 @@
   </h3>
 
   <!-- Github -->
-  <a href="https://www.github.com/Ogustavone">
-    <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="50" height="50">
-  </a>
-  <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/ogustavone/">
-    <img src="https://img.icons8.com/ffffff/color/2x/linkedin.png" width="50" height="50">
-  </a>
-  <!-- Instagram -->
-  <a href="http://www.instagram.com/g1st4voo">
-    <img src="https://img.icons8.com/ffffff/fluent/2x/instagram-new.png" width="50" height="50">
-  </a>
-  <!-- Discord -->
-  <a href="https://discord.com/users/ogustavone">
-    <img src="https://img.icons8.com/ffffff/color/2x/discord-logo.png" width="50" height="50">
-  </a>
+  <p>
+    <a href="https://www.github.com/Ogustavone">
+      <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="50" height="50"></a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/ogustavone/">
+      <img src="https://img.icons8.com/ffffff/color/2x/linkedin.png" width="50" height="50"></a>
+    <!-- Instagram -->
+    <a href="http://www.instagram.com/g1st4voo">
+      <img src="https://img.icons8.com/ffffff/fluent/2x/instagram-new.png" width="50" height="50"></a>
+    <!-- Discord -->
+    <a href="https://discord.com/users/ogustavone">
+      <img src="https://img.icons8.com/ffffff/color/2x/discord-logo.png" width="50" height="50"></a>
+  </p>
 
 </div> <br>
 
@@ -51,29 +49,28 @@
 
   <!-- Python -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30px">
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30px"></a>
+    &nbsp;
   <!-- Javascript -->
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30px">
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30px"></a>
+    &nbsp;
   <!-- Typescript -->
   <a href="#">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30px">
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30px"></a>
+    &nbsp;
 
   <!-- Node.js -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30px">
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30px"></a> 
+    &nbsp;
   <!-- Sqlite -->
   <a href="#">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" height="30px">
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" height="30px"></a> 
+    &nbsp;
   <!-- Postgrees -->
   <a href="#">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgrees" height="30px">
-  </a>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgrees" height="30px"></a>
   
 </div>
 
@@ -88,16 +85,16 @@
 
   <!-- React -->
   <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="50" height="50">
-  </a> &nbsp;
+    <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="50" height="50"></a>
+    &nbsp;
   <!-- Tailwind -->
   <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind" width="50" height="50">
-  </a> &nbsp;
+    <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind" width="50" height="50"></a> 
+    &nbsp;
   <!-- Django -->
   <a href="#">
-    <img src="https://img.icons8.com/75F94C/m_outlined/2x/django.png" alt="Django" width="50" height="50">
-  </a> &nbsp;
+    <img src="https://img.icons8.com/75F94C/m_outlined/2x/django.png" alt="Django" width="50" height="50"></a> 
+    &nbsp;
 
 </div>
 
