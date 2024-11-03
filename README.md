@@ -108,10 +108,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogustavone&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" width="40%"/>
 </div>
-
-<br>
-
-<p align="center">
-  <b>🎈Visitantes:</b>
-  <img src="https://profile-counter.glitch.me/ogustavone/count.svg" alt="Número de visitantes no perfil" align="center"/>
-</p>
