@@ -48,30 +48,13 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" width="32" height="32" align="center"/>
   </h3>
 
-  <!-- Python -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30px"></a>
-    &nbsp;
-  <!-- Javascript -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30px"></a>
-    &nbsp;
-  <!-- Typescript -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30px"></a>
-    &nbsp;
-
-  <!-- Node.js -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30px"></a> 
-    &nbsp;
-  <!-- Sqlite -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" height="30px"></a> 
-    &nbsp;
-  <!-- Postgrees -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgrees" height="30px"></a>
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
 </div>
 
@@ -84,18 +67,15 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" width="32" height="32" align="center"/>
   </h3>
 
-  <!-- React -->
   <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="50" height="50"></a>
-    &nbsp;
-  <!-- Tailwind -->
+    <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"></a> 
+  &nbsp;
   <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind" width="50" height="50"></a> 
-    &nbsp;
-  <!-- Django -->
+    <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React.js" width="50" height="50"></a> 
+  &nbsp;
   <a href="#">
-    <img src="https://img.icons8.com/75F94C/m_outlined/2x/django.png" alt="Django" width="50" height="50"></a> 
-    &nbsp;
+    <img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=fafafa" alt="Next.js" width="50" height="50"></a> 
+  &nbsp;
 
 </div>
 
