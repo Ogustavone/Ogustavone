@@ -60,27 +60,6 @@
 
 <br>
 
-<!-- Objetivos -->
-<div align="left">
-  <h3>
-    ー &nbsp;&nbsp;Objetivos
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" width="32" height="32" align="center"/>
-  </h3>
-
-  <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"></a> 
-  &nbsp;
-  <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React.js" width="50" height="50"></a> 
-  &nbsp;
-  <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=fafafa" alt="Next.js" width="50" height="50"></a> 
-  &nbsp;
-
-</div>
-
-<br>
-
 ---
 
 <br>
