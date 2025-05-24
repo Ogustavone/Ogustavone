@@ -62,5 +62,5 @@
 <br>
 <div align="center">
   <h2>Linguagens mais usadas</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogustavone&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavone&layout=donut&theme=dark&hide_title=true" width="40%"/>
 </div>
