@@ -61,6 +61,5 @@
 
 <br>
 <div align="center">
-  <h2>Linguagens mais usadas</h2>
-  <img src="https://githubcard.com/g/o8Ebo4eB.svg" width="40%"/>
+  <img src="https://githubcard.com/g/o8Ebo4eB.svg"/>
 </div>
