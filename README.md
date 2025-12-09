@@ -8,7 +8,7 @@
 <br>
 
     🌍 Sou de Canoas, RS
-    📚 3° Semestre - Análise & Dev. Sistemas
+    📚 4° Semestre - Análise & Dev. Sistemas
     💻 Interesse no Desenvolvimento Fullstack
     💬 Gosto de instumentos musicais
 <br>
